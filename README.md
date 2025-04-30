@@ -1,4 +1,4 @@
-# kiranmaireddyv.github.io
+
 
 <!DOCTYPE html>
 <html lang="en">
@@ -60,7 +60,7 @@
 
     <div class="section contact">
       <h2>Contact</h2>
-      <p>Email: <a href="mailto:kiranmaireddy@gmail.com">kiranmaireddy@gmail.com</a><br>
+      <p>Email: <a href="mailto:kiranmaireddy@gmail.com">kiranmaiK289@gmail.com</a><br>
          LinkedIn: <a href="https://www.linkedin.com/in/kiranmaireddyvarakantam/" target="_blank">View Profile</a></p>
     </div>
   </div>
