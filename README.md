@@ -14,6 +14,19 @@
       padding: 60px 20px;
       text-align: center;
     }
+    .header-content {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+    }
+    .header-photo {
+      width: 120px;
+      height: 120px;
+      border-radius: 50%;
+      border: 3px solid white;
+      margin-bottom: 15px;
+    }
     header h1 { margin: 0; font-size: 3em; }
     header p { font-size: 1.2em; margin-top: 10px; }
 
@@ -84,8 +97,11 @@
 </head>
 <body>
   <header>
-    <h1>Kiranmai Reddy</h1>
-    <p>Business Analyst | Data Storyteller | Agile Collaborator</p>
+    <div class="header-content">
+      <img src="IMG_6839.jpg" alt="Kiranmai Reddy" class="header-photo">
+      <h1>Kiranmai Reddy</h1>
+      <p>Business Analyst | Data Storyteller | Agile Collaborator</p>
+    </div>
   </header>
 
   <nav>
