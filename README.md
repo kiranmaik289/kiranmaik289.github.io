@@ -100,7 +100,7 @@
     <div class="header-content">
       <img src="IMG_6839.jpg" alt="Kiranmai Reddy" class="header-photo">
       <h1>Kiranmai Reddy</h1>
-      <p>Business Analyst | Data Storyteller | Agile Collaborator</p>
+      <p><h2>Business Analyst </h2></p>
     </div>
   </header>
 
