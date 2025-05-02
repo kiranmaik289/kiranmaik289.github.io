@@ -130,7 +130,7 @@
     <div class="section" id="Work Experience">
       <h2>Work Experience</h2>
       <h3>DXC Technology</h3>
-      <h1>Business Analyst</h1>
+      <h4>Business Analyst</h4>
       <ul>
         <li><strong>Problem:</strong> No central dashboard to track client KPIs</li>
         <li><strong>Tools:</strong> Power BI, Excel</li>
