@@ -119,7 +119,7 @@
   <header>
     <div class="header-content">
       <img src="IMG_6839.jpg" alt="Kiranmai Reddy" class="header-photo">
-      <h1>Kiranmai Reddy</h1>
+      <h1>Kiranmai Reddy Varakantam</h1>
       <p><h2>Business Analyst </h2></p>
     </div>
   </header>
@@ -127,7 +127,7 @@
   <nav>
     <a href="#about">About</a>
     <a href="#skills">Skills</a>
-    <a href="#projects">Projects</a>
+    <a href="#work experience">Work Experience</a>
     <a href="#resume">Resume</a>
     <a href="#contact">Contact</a>
   </nav>
