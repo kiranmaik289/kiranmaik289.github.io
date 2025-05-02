@@ -24,16 +24,17 @@
     }
 
     .header-photo {
-      width: 120px;
-      height: 120px;
+      width: 200px;
+      height: 200px;
       border-radius: 50%;
-      border: 3px solid white;
-      box-shadow: 0 0 15px rgba(255, 255, 255, 0.6);
-      transition: box-shadow 0.3s ease;
+      border: 5px solid white;
+      box-shadow: 0 0 20px rgba(255, 255, 255, 0.6);
+      transition: box-shadow 0.3s ease, transform 0.3s ease;
     }
 
     .header-photo:hover {
-      box-shadow: 0 0 25px rgba(255, 255, 255, 0.9);
+      box-shadow: 0 0 40px rgba(255, 255, 255, 0.9);
+      transform: scale(1.05);
     }
 
     header h1 { margin: 0; font-size: 3em; }
@@ -117,9 +118,9 @@
 <body>
   <header>
     <div class="header-content">
-      <img src="IMG_6839.jpg" alt="Kiranmai Reddy" class="header-photo" />
+      <img src="IMG_6839.jpg" alt="Kiranmai Reddy" class="header-photo">
       <h1>Kiranmai Reddy</h1>
-      <p><h2>Business Analyst</h2></p>
+      <p><h2>Business Analyst </h2></p>
     </div>
   </header>
 
@@ -173,7 +174,7 @@
 
     <div class="section" id="contact">
       <h2>Contact</h2>
-      <p>Email: <a href="mailto:kiranmaireddy@gmail.com">kiranmaireddy@gmail.com</a><br/>
+      <p>Email: <a href="mailto:kiranmaireddy@gmail.com">kiranmaireddy@gmail.com</a><br>
          LinkedIn: <a href="https://www.linkedin.com/in/kiranmaireddyvarakantam/" target="_blank">Connect with me</a></p>
     </div>
   </div>
