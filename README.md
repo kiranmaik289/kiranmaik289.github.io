@@ -1,32 +1,41 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
   <title>Kiranmai Reddy | Business Analyst Portfolio</title>
-  <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap" rel="stylesheet"/>
   <style>
     * { box-sizing: border-box; }
     body { margin: 0; font-family: 'Montserrat', sans-serif; background: #ffffff; color: #333; }
+
     header {
       background: linear-gradient(to right, #a18cd1, #fbc2eb);
       color: white;
       padding: 60px 20px;
       text-align: center;
     }
+
     .header-content {
       display: flex;
       flex-direction: column;
       align-items: center;
       justify-content: center;
     }
+
     .header-photo {
       width: 120px;
       height: 120px;
       border-radius: 50%;
       border: 3px solid white;
-      margin-bottom: 15px;
+      box-shadow: 0 0 15px rgba(255, 255, 255, 0.6);
+      transition: box-shadow 0.3s ease;
     }
+
+    .header-photo:hover {
+      box-shadow: 0 0 25px rgba(255, 255, 255, 0.9);
+    }
+
     header h1 { margin: 0; font-size: 3em; }
     header p { font-size: 1.2em; margin-top: 10px; }
 
@@ -35,12 +44,14 @@
       padding: 12px 0;
       text-align: center;
     }
+
     nav a {
       color: white;
       text-decoration: none;
       margin: 0 20px;
       font-weight: 500;
     }
+
     nav a:hover {
       text-decoration: underline;
     }
@@ -50,6 +61,7 @@
       margin: auto;
       padding: 50px 20px;
     }
+
     .section {
       margin-bottom: 60px;
       background: #f5f7fa;
@@ -57,6 +69,7 @@
       border-radius: 10px;
       box-shadow: 0 0 10px rgba(0,0,0,0.05);
     }
+
     .skills span {
       display: inline-block;
       background: #dee2e6;
@@ -65,12 +78,15 @@
       margin: 6px;
       font-size: 0.95em;
     }
+
     h2 {
       color: #6c63ff;
       border-left: 5px solid #6c63ff;
       padding-left: 12px;
     }
+
     ul { padding-left: 20px; }
+
     .btn {
       display: inline-block;
       margin-top: 15px;
@@ -81,7 +97,9 @@
       text-decoration: none;
       transition: background 0.3s ease;
     }
+
     .btn:hover { background: #5146d8; }
+
     footer {
       background: #6c63ff;
       color: white;
@@ -89,6 +107,7 @@
       padding: 30px 20px;
       font-size: 0.9em;
     }
+
     .contact a {
       color: #ffd966;
       text-decoration: none;
@@ -98,9 +117,9 @@
 <body>
   <header>
     <div class="header-content">
-      <img src="IMG_6839.jpg" alt="Kiranmai Reddy" class="header-photo">
+      <img src="IMG_6839.jpg" alt="Kiranmai Reddy" class="header-photo" />
       <h1>Kiranmai Reddy</h1>
-      <p><h2>Business Analyst </h2></p>
+      <p><h2>Business Analyst</h2></p>
     </div>
   </header>
 
@@ -154,7 +173,7 @@
 
     <div class="section" id="contact">
       <h2>Contact</h2>
-      <p>Email: <a href="mailto:kiranmaireddy@gmail.com">kiranmaireddy@gmail.com</a><br>
+      <p>Email: <a href="mailto:kiranmaireddy@gmail.com">kiranmaireddy@gmail.com</a><br/>
          LinkedIn: <a href="https://www.linkedin.com/in/kiranmaireddyvarakantam/" target="_blank">Connect with me</a></p>
     </div>
   </div>
