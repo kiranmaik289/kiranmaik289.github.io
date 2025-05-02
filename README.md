@@ -115,7 +115,7 @@
   <div class="container">
     <div class="section" id="about">
       <h2>About Me</h2>
-      <p>I’m a creative and analytical Business Analyst with 4 years of experience turning data into decisions. I specialize in translating stakeholder needs into technical solutions, visualizing trends through Power BI/Tableau, and optimizing Agile delivery cycles. I recently completed my Master’s in Data Analytics Engineering from George Mason University, and I’m passionate about bridging data and business insight.</p>
+      <p>I’m a creative and analytical Business Analyst with 4 years of experience turning data into decisions. I specialize in translating stakeholder needs into technical solutions, visualizing trends through Power BI/Tableau, and optimizing Agile delivery cycles. I recently completed my Master’s in Data Analytics Engineering from George Mason University, and I’m passionate about bridging data and business insights.</p>
     </div>
 
     <div class="section" id="skills">
@@ -127,9 +127,10 @@
       </div>
     </div>
 
-    <div class="section" id="projects">
-      <h2>Projects</h2>
-      <h3>Client Portal Dashboard – DXC Technology</h3>
+    <div class="section" id="Work Experience">
+      <h2>Work Experience</h2>
+      <h3>DXC Technology</h3>
+      <h1>Business Analyst</h1>
       <ul>
         <li><strong>Problem:</strong> No central dashboard to track client KPIs</li>
         <li><strong>Tools:</strong> Power BI, Excel</li>
